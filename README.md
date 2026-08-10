@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-	<strong>A fan-made Brainrot Factory × Youtooz preview site for Tung Tung Tung Sahur, also known as Triple T.</strong>
+	<strong>A Brainrot Factory × Youtooz preview site for Tung Tung Tung Sahur, also known as Triple T.</strong>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ## What this is
 
-TungTungTooz is a lightweight, playful, fan-made concept page inspired by the Brainrot Factory × Youtooz vibe. It leans into neon gradients, absurd internet energy, and a simple low-poly figure viewer while staying small enough to deploy easily on GitHub Pages.
+TungTungTooz is a lightweight, playful, concept page by the Brainrot Factory × Youtooz vibe.
 
 ## Reference Post
 
@@ -55,7 +55,7 @@ Source: [Mementum Lab on X](https://x.com/mementumlab/status/2086758450701168711
 			<ul>
 				<li>Downloadable PNG drop card generator powered by html2canvas</li>
 				<li>Responsive layout tuned for mobile and GitHub Pages deployment</li>
-				<li>Clean project structure ready for future fan concept updates</li>
+				<li>Clean project structure ready for future updates</li>
 			</ul>
 		</td>
 	</tr>
@@ -68,7 +68,7 @@ Source: [Mementum Lab on X](https://x.com/mementumlab/status/2086758450701168711
 </p>
 
 <p align="center">
-	<em>Replace this with more in-app screenshots whenever you want to highlight the viewer or card generator.</em>
+	<em>More in-app screenshots Soon.</em>
 </p>
 
 ## Tech Stack
@@ -119,11 +119,3 @@ The Vite config uses a relative base so the site is ready for GitHub Pages witho
 If you want to publish it, build it with `npm run build` and point GitHub Pages at the generated `dist/` output.
 
 ## Disclaimer
-
-Unofficial fan project. Not affiliated with Youtooz or Mementum Lab / Brainrot Factory.
-
-## Swaps for a Future Update
-
-- Replace the teaser image with official art if it is ever published
-- Swap the placeholder social links for real official accounts
-- Replace the primitive figure with a more detailed model if the concept grows
